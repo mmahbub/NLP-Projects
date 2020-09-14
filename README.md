@@ -6,6 +6,6 @@ and a second level data cache (L2). The program reads a trace of references from
 
 Run `memhier_simulator.py` file using the following commands on the command line:
 
-python3 memhier_simulator.py <config_file> <trace_data>
+`python3 memhier_simulator.py <config_file> <trace_data>`
 
-example: python3 memhier_simulator.py trace.config trace.dat
+**Example**: `python3 memhier_simulator.py trace.config trace.dat`
